@@ -1,0 +1,7 @@
+{
+  "restartExitedEnabled": true,
+  "restartCooldownMs": 5000,
+  "alertEmails": [
+    "2400030361@kluniversity.in"
+  ]
+}
